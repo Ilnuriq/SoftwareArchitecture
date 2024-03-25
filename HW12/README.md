@@ -134,7 +134,7 @@ assertFalse(client.isConnect());
 
 ---
 Результат выполнения тестов:
-![Результат выполнения тестов: скриншот](https://github.com/Ilnuriq/SoftwareArchitecture/blob/main/HW12/img/page01.png) "Tests result")
+![Результат выполнения тестов: скриншот](https://github.com/Ilnuriq/SoftwareArchitecture/blob/main/HW12/img/page01.png) "Tests result"
 
 
 ## Сценарии тестирования мессенджера 
